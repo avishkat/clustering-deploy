@@ -9,3 +9,5 @@ flask_restful
 sklearn
 pandas
 joblib
+kmodes
+seaborn
